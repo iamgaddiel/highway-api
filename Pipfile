@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 djangorestframework = "*"
 django = "*"
+pillow = "*"
+djoser = "*"
+djangorestframework-simplejwt = "*"
+shortuuid = "*"
 
 [dev-packages]
 
