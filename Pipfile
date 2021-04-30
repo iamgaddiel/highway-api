@@ -10,6 +10,7 @@ pillow = "*"
 djoser = "*"
 djangorestframework-simplejwt = "*"
 shortuuid = "*"
+drf-yasg = "*"
 
 [dev-packages]
 
